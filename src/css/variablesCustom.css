@@ -8,8 +8,8 @@
 /*@import url("https://cdn.fonts.net/t/1.css?apiType=css&projectid=15e0d230-9ed9-11ec-b670-06c4e8753e28");*/
 :root {
   --color-disabled: #0099aa;
-  --color-hover: #4cbcc4;
-  --color-secondary: #004968;
+  --color-hover: #07c6c7;
+  --color-secondary: #03939d;
   --footer-default-invert-background-color-custom:var(--m-black);
   --header-default-a-logo-top-custom: calc(62px / 2 - 90px / 2); /* header.height / 2 - logo.height / 2 */
   --header-default-a-menu-icon-background-color-custom:var(--color);
@@ -17,4 +17,5 @@
   --header-default-border-bottom-custom: 1px solid var(--m-gray-300);
   --header-default-logo-width-custom:190px;
   --navigation-default-color-custom: var(--color);
+  --footer-default-invert-background-color-custom:#0b3b55;
 }
