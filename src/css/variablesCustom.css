@@ -7,10 +7,11 @@
 /* font tracking */
 @import url("https://cdn.fonts.net/t/1.css?apiType=css&projectid=ae6aa7d0-cd17-11ec-9404-069abf4c3446");
 :root {
-  --color-disabled: #0099aa;
-  --color-hover: #19b9bd;
-  --color-secondary: #0a3b55;
-  --footer-default-invert-background-color-custom:#0d7587;
+  --color-disabled: rgb(237, 195, 247);
+  --color-hover: rgb(63, 2, 77);
+  --color-secondary: #6C4675;
+  --footer-default-invert-background-color-custom: #536f45;
+  --footer-default-invert-orange-background-color-custom: #B8B799;
   --header-default-a-logo-top-custom: calc(62px / 2 - 90px / 2); /* header.height / 2 - logo.height / 2 */
   --header-default-a-menu-icon-background-color-custom:var(--color);
   --header-default-background-color-custom: var(--background-color);
